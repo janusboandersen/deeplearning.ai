@@ -1,0 +1,15 @@
+wheel
+ipython
+jupyter
+jupyterlab
+numpy<1.19.0,>=1.16.0
+scipy==1.4.1
+scikit-learn
+statsmodels
+matplotlib
+keras
+tensorflow
+seaborn
+torch
+pyzmq==20.0.0
+openpyxl

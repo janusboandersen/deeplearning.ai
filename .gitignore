@@ -157,4 +157,9 @@ venv.bak/
 
 # Visual Studio
 .vscode/
-/experimental/remoni.py
+
+# Project
+c1-custom-models/horse-or-human.zip
+c1-custom-models/horse-or-human/training
+c1-custom-models/horse-or-human/validation
+
